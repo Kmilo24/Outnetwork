@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Outnetwork</string>
+    <string name="campoRequerido">Este campo es requerido"</string>
+    <string name="contraMenor">La contraseña debe de tener 6 o mas caracteres</string>
+</resources>

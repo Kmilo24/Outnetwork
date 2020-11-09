@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41485113699",
+    "firebase_url": "https://outnetworkdb.firebaseio.com",
+    "project_id": "outnetworkdb",
+    "storage_bucket": "outnetworkdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41485113699:android:f3c00daf51b9b9e8d31b56",
+        "android_client_info": {
+          "package_name": "com.example.outnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41485113699-9udqis4vhgahgkd003ab9221ln1a071c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLW6Yo6xJgIxh5tezYk3igxOjZPloAcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41485113699-9udqis4vhgahgkd003ab9221ln1a071c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
